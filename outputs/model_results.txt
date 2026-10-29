@@ -1,0 +1,9 @@
+Decision Tree Accuracy: 75.80%
+              precision    recall  f1-score   support
+
+ No Purchase       0.98      0.75      0.85       801
+    Purchase       0.30      0.86      0.45       104
+
+    accuracy                           0.76       905
+   macro avg       0.64      0.80      0.65       905
+weighted avg       0.90      0.76      0.80       905
